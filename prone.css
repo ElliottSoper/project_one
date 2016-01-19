@@ -38,3 +38,11 @@ margin: 5px;
 text-decoration: none;
 }
 
+#container {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.center {
+	text-align: center;
+	font-size: 45px
+}

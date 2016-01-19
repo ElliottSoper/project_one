@@ -1,0 +1,40 @@
+#header {
+margin: 0px;
+height: 70px;
+background-color: gray;
+}
+
+.elliott {
+text-indent: 20px;
+font-size: 30px;
+color: white;
+float: left;
+height: 71px;
+padding-top: 15px;
+}
+
+.menu {
+float: right;
+text-align: right;
+font-size: medium;
+color: white;
+padding-top: 23px;
+text-decoration: none;
+padding-right: 100px;
+}
+
+ul.menutw{
+margin: 0;
+}
+
+ul li.menuth {
+display: inline;
+list-style: none;
+text-decoration: none;
+margin: 5px;
+}
+
+{
+text-decoration: none;
+}
+

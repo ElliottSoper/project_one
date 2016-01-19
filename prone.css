@@ -44,5 +44,21 @@ text-decoration: none;
 }
 .center {
 	text-align: center;
-	font-size: 45px
+}
+
+.bottom {
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 45px;
+}
+img {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	height: 450px;
+	width: auto;
 }

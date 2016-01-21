@@ -1,3 +1,7 @@
+body{
+background-color: #ffffff;
+}
+
 #header {
 margin: 0px;
 height: 70px;
@@ -34,6 +38,10 @@ text-decoration: none;
 margin: 5px;
 }
 
+li a:hover:not(.active) {
+    background-color: #d3d3d3;
+}
+
 a{
 text-decoration: none;
 }
@@ -55,10 +63,23 @@ text-decoration: none;
 h1 {
 	font-size: 45px;
 }
-img {
+
+.ellpic {
 	margin-right: auto;
 	margin-left: auto;
 	display: block;
 	height: 450px;
 	width: auto;
+}
+
+.icon {
+	height: 50px;
+	width: auto;
+	padding: 5px;
+}
+
+
+.iconCenter {
+	text-align: center;
+	padding-top: 15px;
 }

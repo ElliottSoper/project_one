@@ -6,6 +6,7 @@ background-color: #ffffff;
 margin: 0px;
 height: 70px;
 background-color: gray;
+border-bottom: 3px solid black;
 }
 
 .elliott {
@@ -36,7 +37,9 @@ display: inline;
 list-style: none;
 text-decoration: none;
 margin: 5px;
+text-align: center;
 }
+
 
 li a:hover:not(.active) {
     background-color: #d3d3d3;
@@ -70,6 +73,7 @@ h1 {
 	display: block;
 	height: 450px;
 	width: auto;
+	border:3px solid black;
 }
 
 .icon {
